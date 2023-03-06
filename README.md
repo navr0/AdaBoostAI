@@ -1,0 +1,2 @@
+# AdaBoostAI
+AdaBoost script implementation. 
